@@ -1,0 +1,5 @@
+Here is the link to the Congressional Voting Records Dataset from the U.C.I. Machine Learning Repository.
+
+https://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records
+
+Note: the data is automatically downloaded in the .R and .Rmd files.
